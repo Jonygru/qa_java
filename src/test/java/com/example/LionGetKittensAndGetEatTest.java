@@ -6,7 +6,7 @@ import org.mockito.Mockito;
 import org.mockito.MockitoAnnotations;
 
 
-public class LionTestGetKittensAndGetEat {
+public class LionGetKittensAndGetEatTest {
     @Before
     public void init() {
         MockitoAnnotations.initMocks(this);
